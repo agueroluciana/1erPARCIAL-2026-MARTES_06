@@ -128,9 +128,9 @@ Queremos recorrer la pila utilizando un ciclo <code>for</code> deberan implement
 
 
 ---
-Nombre y Apellido:
+Nombre y Apellido: luciana Ailen Aguero
 
-Email:
+Email: luciana.ailen.aguero@gmail.com
 
 Comisión:
 
