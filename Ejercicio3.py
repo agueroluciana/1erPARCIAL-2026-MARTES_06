@@ -31,7 +31,7 @@ if self.tope is None:
 
 print("Evoluciones registradas (de mas reciente a mas antigua):")
 for evo in self:
-print(f"- {evo}")
+print(f"- {Evolucion}")
 
 def __iter__(self):
  """Retorna el iterador para poder usar la pila en un ciclo for."""
